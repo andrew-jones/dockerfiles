@@ -1,4 +1,6 @@
-# OptaPlanner Web Examples
+# OptaPlanner
+
+Sharing X Session with docker container to run OptaPlanner.
 
 Tested on Ubuntu 14.04 Desktop
 

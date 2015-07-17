@@ -1,0 +1,8 @@
+# optaplanner container
+optaplanner:
+  build: .
+  hostname: optaplanner.local
+  environment:
+    - DISPLAY=:0
+  volumes:
+    - /tmp/.X11-unix:/tmp/.X11-unix
